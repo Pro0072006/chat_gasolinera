@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="title_activity_create_message">create_message</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="send">Send Message</string>
+    <string name="hint">Enter a message</string>
+</resources>
