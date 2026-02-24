@@ -13,11 +13,12 @@
         android:theme="@style/Theme.MyMessenger">
         <activity
             android:name=".ReceiveMessage"
+            android:label="Estacion"
             android:exported="false" />
         <activity
             android:name=".CreateMessageActivity"
             android:exported="true"
-            android:label="@string/title_activity_create_message"
+            android:label="Cliente"
             android:theme="@style/Theme.MyMessenger">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
